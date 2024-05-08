@@ -15,10 +15,10 @@ const CityScreen = ({ navigation }) => {
     const coords = [
         { lat: -21.968162, lon: -46.792163 },
         { lat: -21.835700, lon: -46.880600 },
+        { lat: -21.788300, lon:	-46.562500 },
         { lat: -23.454163, lon: -46.534096 },
         { lat: -23.944841, lon:	-46.330376 },
-        { lat: 	-3.117034, lon:	-60.025780 },
-        { lat: -23.944841, lon:	-46.330376 }
+        { lat: 	-3.117034, lon:	-60.025780 }
     ]
 
     var [isSpinnerVisible, setIsSpinnerVisible] = useState(false)
