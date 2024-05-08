@@ -1,4 +1,4 @@
-const apikey =  "e18e490e9f2010591e5d6e3acc27133a"//"86372690fe063502402da72e4861d6fa"
+const apikey =  ""
 const unitsMetric = 'metric'
 const lang = 'pt_br'
 
